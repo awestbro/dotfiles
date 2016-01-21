@@ -3,3 +3,7 @@
 .gnupg
 .lesshst
 .config/gtk-2.0
+.oh-my-zsh/
+.zcompdump-awestbro-5.2
+.zsh-update
+.zsh_history
